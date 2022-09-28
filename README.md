@@ -8,10 +8,7 @@ The Herakles Project adapts Euripedes 12 Labors as a series of interlinked XR/AI
 
 # Images
 
-
 <img src="images/herakles-wow-1.jpg" width=1000>
-
-<img src="https://images-ext-1.discordapp.net/external/d4tL0LMjfGfyNcwiaZd0toZ2AdHnOxTnB33gzXTELM8/https/lajollaplayhouse.org/wowfestival2022/wp-content/uploads/Embarcadero-Marina-Park-South-Map-pdf-1200x927.jpg">
 
 # Technical Details
 
