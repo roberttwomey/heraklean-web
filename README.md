@@ -6,7 +6,7 @@ Mapped over the site of the Rady Shell, the listener explores a speculative futu
 
 The Herakles Project adapts Euripedes 12 Labors as a series of interlinked XR/AI/VR pieces. The project surfaces the existential question of motive–whether the labors were a form of expiation for the murder of his wife and children, or were they the cause of post-traumatic stress - violence begetting violence - that induced the murder of his family? These questions take on new significance in a contemporary frame.
 
-# Images
+# Site Map
 
 <img src="images/herakles-wow-1.jpg" width=1000>
 
