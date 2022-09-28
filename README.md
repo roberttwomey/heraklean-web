@@ -14,6 +14,8 @@ The Herakles Project adapts Euripedes 12 Labors as a series of interlinked XR/AI
 
 This project is geolocative sound walk, facilitated through viewers own smartphones and headsets. The narrative space of the project is mapped over the physical space of site. For the WoW Festival 2023, our sonic episodes will be distributed across the space surrounding the Rady Shell. 
 
+<img src="images/herakles-wow-2.jpg" width=1000>
+
 <!-- # Visitor Experience
 [TK]
 
