@@ -27,5 +27,8 @@ This project is geolocative sound walk, facilitated through viewers own smartpho
 [TK] -->
 
 # Team
+Precise Device is an extended theater collaborative creating spatial narratives, speculative futures, and immersive and augmented realities. Our projects exist in the real world, engaged with the sites where we work, live, and play.
+
 **Robert Twomey** - Scholar in Residence, INKWell Collective (UCSD). Director of [Machine Cohabitation Lab](http://cohab-lab.net) UNL - [roberttwomey.com](https://roberttwomey.com)<br>
+
 **Ash Smith** - UCSD Design Lab Affiliate. Story, Worlds, Speculative Design Lab, UNL - [asheveryday.com](https://asheveryday.com/)<br>
