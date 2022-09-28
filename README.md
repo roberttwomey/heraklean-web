@@ -6,22 +6,25 @@ Mapped over the site of the Rady Shell, the listener explores a speculative futu
 
 The Herakles Project adapts Euripedes 12 Labors as a series of interlinked XR/AI/VR pieces. The project surfaces the existential question of motive–whether the labors were a form of expiation for the murder of his wife and children, or were they the cause of post-traumatic stress - violence begetting violence - that induced the murder of his family? These questions take on new significance in a contemporary frame.
 
-# Technical Details
+# Images
 
-This project is geolocative sound walk, facilitated through our mobile sound devices. The narrative space of the project is mapped over the physical space of site. For the WoW Festival 2023, our sonic episodes will be distributed across the space surrounding the Rady Shell. 
 
-<img src="https://user-images.githubusercontent.com/1598545/192683154-85e10cc2-c29a-47d1-b72d-335654a83746.png" width=400>
+<img src="images/herakles-wow-1.jpg" width=1000>
 
 <img src="https://images-ext-1.discordapp.net/external/d4tL0LMjfGfyNcwiaZd0toZ2AdHnOxTnB33gzXTELM8/https/lajollaplayhouse.org/wowfestival2022/wp-content/uploads/Embarcadero-Marina-Park-South-Map-pdf-1200x927.jpg">
 
-# Visitor Experience
+# Technical Details
+
+This project is geolocative sound walk, facilitated through viewers own smartphones and headsets. The narrative space of the project is mapped over the physical space of site. For the WoW Festival 2023, our sonic episodes will be distributed across the space surrounding the Rady Shell. 
+
+<!-- # Visitor Experience
 [TK]
 
 # Tools and Resources
 [TK]
 
 # References
-[TK]
+[TK] -->
 
 # Team
 **Robert Twomey** - Scholar in Residence, INKWell Collective (UCSD). Director of [Machine Cohabitation Lab](http://cohab-lab.net) UNL - [roberttwomey.com](https://roberttwomey.com)<br>
