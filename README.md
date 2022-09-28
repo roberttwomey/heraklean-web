@@ -1,5 +1,3 @@
-Task 5 of the Herakles Project, from the INKWell Collective. 
-
 # Description
 
 An immersive soundwalk, this 5th Labor of Herakles is reimagined as an individualized XR audio piece with accompanying visuals, experienced through viewers’ smartphones and headsets. Working from field recordings and photogrammetric models documenting the distinct features of Nebraskan and Southern Californian agriculture and aquaculture—this project surfaces structural similarities and illuminates parallel concerns in the twin Breadbaskets of the American midwest and southwest. It juxtaposes approaches to precision agriculture, cattle operations, and water rights management in these distinct geographic regions.
