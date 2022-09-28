@@ -10,7 +10,7 @@ Mapped over the site of the Rady Shell, the listener explores a speculative futu
 
 This project is geolocative sound walk, facilitated through our mobile sound devices. The narrative space of the project is mapped over the physical space of site. For the WoW Festival 2023, our sonic episodes will be distributed across the space surrounding the Rady Shell. 
 
-https://images-ext-1.discordapp.net/external/d4tL0LMjfGfyNcwiaZd0toZ2AdHnOxTnB33gzXTELM8/https/lajollaplayhouse.org/wowfestival2022/wp-content/uploads/Embarcadero-Marina-Park-South-Map-pdf-1200x927.jpg
+<img src="https://images-ext-1.discordapp.net/external/d4tL0LMjfGfyNcwiaZd0toZ2AdHnOxTnB33gzXTELM8/https/lajollaplayhouse.org/wowfestival2022/wp-content/uploads/Embarcadero-Marina-Park-South-Map-pdf-1200x927.jpg">
 
 # Visitor Experience
 [TK]
