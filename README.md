@@ -29,7 +29,7 @@ This project is geolocative sound walk, facilitated through viewers own smartpho
 # Team
 Precise Device is an extended theater collaborative creating spatial narratives, speculative futures, and immersive and augmented realities. Our projects exist in the real world, engaged with the sites where we work, live, and play.
 
-**[Robert Twomey](https://roberttwomey.com)** - Scholar in Residence, INKWell Collective (UCSD). Assistant Professor at the Johnny Carson Center of Emerging Media Arts, UNL.<br>
+**[Robert Twomey](https://roberttwomey.com)** - Scholar in Residence, INKWell Collective (UCSD) and [Arthur C. Clarke Center for Human Imagination](https://imagination.ucsd.edu) (UCSD). Assistant Professor at the Johnny Carson Center of Emerging Media Arts, UNL.<br>
 
 **[Ash Smith](https://asheveryday.com/)** - UCSD Design Lab Affiliate. Assistant Professor at the Johnny Carson Center of Emerging Media Arts, UNL.
 
