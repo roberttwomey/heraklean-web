@@ -33,4 +33,4 @@ Precise Device is an extended theater collaborative creating spatial narratives,
 
 **[Ash Smith](https://asheveryday.com/)** - UCSD Design Lab Affiliate. Assistant Professor at the Johnny Carson Center of Emerging Media Arts, UNL.
 
-AI Radio Play: [radio-play.net](radio-play.net)
+Recent work: **AI Radio Play**: [radio-play.net](radio-play.net)
