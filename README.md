@@ -21,9 +21,10 @@ This project is geolocative sound walk, facilitated through viewers own smartpho
 
 # Tools and Resources
 [TK]
-
+-->
 # References
-[TK] -->
+- [Budget](https://docs.google.com/spreadsheets/d/1nkKvQrZhyey3IujSvX8kp7EB51x0W7flmHE_1kr9U10/edit?usp=sharing)
+- [Timeline]()
 
 # Team
 Precise Device is an extended theater collaborative creating spatial narratives, speculative futures, and immersive and augmented realities. Our projects exist in the real world, engaged with the sites where we work, live, and play.
