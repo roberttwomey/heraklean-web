@@ -1,1 +1,1 @@
-<img src="images/cts_social_1200px.jpg" width=1000>
+<h1> THIS WILL BE THE APP </h1>
