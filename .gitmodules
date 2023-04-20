@@ -1,0 +1,3 @@
+[submodule "heraklean-app"]
+	path = app
+	url = https://github.com/roberttwomey/heraklean-app
